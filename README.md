@@ -14,6 +14,7 @@ Diabetes Pedigree Function
 Age
 
 ## Project Structure
+
 diabetes_prediction/
 ├── data/
 │   ├── train.csv
