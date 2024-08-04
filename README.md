@@ -12,3 +12,5 @@ Insulin
 BMI
 Diabetes Pedigree Function
 Age
+
+
