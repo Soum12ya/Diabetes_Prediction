@@ -12,19 +12,3 @@ Insulin
 BMI
 Diabetes Pedigree Function
 Age
-
-## Project Structure
-
-diabetes_prediction/
-├── data/
-│   ├── train.csv
-│   ├── test.csv
-│   └── sample_submission.csv
-├── src/
-│   ├── data_preprocessing.py
-│   ├── model_training.py
-│   └── model_prediction.py
-├── models/
-│   ├── best_model.pkl
-├── requirements.txt
-└── README.md
